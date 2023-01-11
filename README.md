@@ -74,11 +74,11 @@ def tambah_data(self):
 
 def ubah_data(self):
 
-# modul input_nilai
+ #modul input_nilai
 
-# pengkondisian jika modul input_nilai di dalam modul data
+ #pengkondisian jika modul input_nilai di dalam modul data
 
-# memasukan modul input_nilai baru ke dalam modul data
+ #memasukan modul input_nilai baru ke dalam modul data
 
 def hapus_data(self):
 
